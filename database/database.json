@@ -1,0 +1,40 @@
+{
+  "allcommand": [],
+  "anonymous": [],
+  "blockcmd": [],
+  "banned": [],
+  "premium": [],
+  "claim": [],
+  "data": [],
+  "sewa": [],
+  "antispam": [],
+  "dashboard": [],
+  "listerror": [],
+  "sticker": {},
+  "audio": {},
+  "hittoday": [],
+  "clearchat": [],
+  "users": {},
+  "chats": {},
+  "settings": {
+    "settingbot": {
+      "status": 1676348113853,
+      "setmenu": "document",
+      "docType": "docx",
+      "Qoted": "ftoko",
+      "autoBio": false,
+      "multi": true,
+      "prefix": "!",
+      "fake": "Aiya Botz",
+      "autoblockcmd": false,
+      "fake1": "Extream",
+      "replyType": "web",
+      "setwelcome": "type11",
+      "autoReport": true,
+      "autoLevel": true,
+      "autoSticker": false
+    }
+  },
+  "kickon": {},
+  "others": {}
+}
